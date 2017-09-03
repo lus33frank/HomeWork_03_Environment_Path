@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">No:03_Environment Path</string>
+    <string name="No_01">1.getDataDirectory()</string>
+    <string name="No_02">2.getDownloadCacheDirectory()</string>
+    <string name="No_03">3.getExternalStorageDirectory()</string>
+    <string name="No_04">4.getExternalStoragePublicDirectory(String type)</string>
+    <string name="No_05">5.getExternalStorageState()</string>
+    <string name="No_06">6.getExternalStorageState(File path)</string>
+    <string name="No_07">7.getRootDirectory()</string>
+</resources>
